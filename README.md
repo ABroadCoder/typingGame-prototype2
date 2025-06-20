@@ -5,7 +5,7 @@ _Each was developed in about 24 hours (or less) of total work._
 
 🔦 In this prototype, players type words illuminated on a cement surface by a moving flashlight.
 
-▶️ Test it out at [https://abroadcoder.github.io/typing-game-prototype2/](https://abroadcoder.github.io/typingGame-prototype2/) .
+▶️ Test it out at [https://abroadcoder.github.io/typingGame-prototype2/](https://abroadcoder.github.io/typingGame-prototype2/) .
 
 ===General Information===
 
