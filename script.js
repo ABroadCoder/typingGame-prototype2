@@ -39,7 +39,7 @@ let wordQuantity = 100;
 const flashlightSound = new Audio('flashlight_on.wav');
 // let initialPosition = true;
 
-// API call to replace default wordBank with random word entries
+// API call to replace default wordBank with random word entries...comment out if needed
 // function populateWordBank() {
 //   const request = new XMLHttpRequest();
 //   request.open('GET', 'https://random-word-api.herokuapp.com/word?number=42');
